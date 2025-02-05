@@ -37,9 +37,7 @@ const Add = ({ url }) => {
             toast.error(response.data.message)
         }
     }
-    useEffect(() => {
-        // console.log(data);
-    })
+
     return (
         <div className='add'>
             <form className='flex-col' onSubmit={onSubmitHandler}>
