@@ -7,7 +7,7 @@ import parcel_icon from './parcel_icon.png'
 
 
 
-export const url = 'http://localhost:4000'
+export const url = 'https://food-delivery-backend-hc0l.onrender.com'
 export const currency = '₹'
 
 
